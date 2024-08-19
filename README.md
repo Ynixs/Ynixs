@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ynixs~~
+- 👀 I’m interested in codes and mystery.
+- 🌱 I’m currently learning Java, Javascript and Python!
